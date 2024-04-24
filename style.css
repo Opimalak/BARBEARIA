@@ -14,7 +14,7 @@ h1{
     font-size: 100px;
     border: 10px solid;
     border-color: black;
-    border-bottom-left-radius: 10px;
+    border-image: auto;
 }
 
 h2{
