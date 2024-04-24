@@ -12,7 +12,8 @@ h1{
     text-align: center;
     background-color: rgb(88, 88, 88);
     font-size: 100px;
-    border: 10px solid color: blue;
+    border: 10px solid;
+    border-color: black;
 }
 
 h2{
