@@ -3,6 +3,7 @@ body{
     color: black;
     border: solid;
     border-color: darksalmon;
+    border-radius: 60px;
     text-align: center;
 }
 
