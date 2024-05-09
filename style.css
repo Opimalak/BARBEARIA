@@ -23,7 +23,7 @@ h2{
 }
 
 
- p{
+p{
     margin-left: 03%;
  }  
 
@@ -36,4 +36,7 @@ h2{
  }
  #banner{
 width: 100%;
+ }
+ .imagembeneficios {
+    width: 50%;
  }
