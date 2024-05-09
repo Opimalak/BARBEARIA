@@ -51,6 +51,7 @@ text-align: left;
  .beneficios{
 background: rgb(51, 51, 51);
 padding: 20px;
+border-top: 5px yellow solid;
  }
 
  ul{
@@ -61,7 +62,3 @@ margin-right: 15%;
 border: 3px solid black;
  }
 
-  .hrdivisao{
-background-color: yellow;
-size: 4px;
-  }
