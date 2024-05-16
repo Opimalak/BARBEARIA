@@ -29,7 +29,7 @@ text-decoration: none;
 }
 
 nav a:hover{
-color: #693786;
+color: #b036f7;
 text-decoration: underline;
 }
 
@@ -52,7 +52,7 @@ border-radius: 10px;
 }
 
 .produtos li:hover {
-    border-color: #693786;
+    border-color: #b036f7;
 }
 
 .produtos li:active {
