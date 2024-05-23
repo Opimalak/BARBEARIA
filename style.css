@@ -42,6 +42,8 @@
     .itens {
         font-style: italic;
         text-align: left;
+    }
+    .ul2{
         border: solid;
         line-height: 2;
         border-radius: 60px;
