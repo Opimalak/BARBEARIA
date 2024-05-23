@@ -56,11 +56,19 @@
         vertical-align: top;
         width: 20%;
         margin-right: 15%;
+        border: 8px solid black;
         line-height: 2;
         border-radius: 60px;
         font-size: 40px;
     }
 
+    .menu{
+        display: flex;
+        vertical-align: top;
+        width: 20%;
+        margin-right: 15%;
+      
+    }
     .conteudo-beneficios {
         width: 640px;
         margin: 0 auto;
