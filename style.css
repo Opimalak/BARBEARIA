@@ -42,6 +42,10 @@
     .itens {
         font-style: italic;
         text-align: left;
+        border: solid;
+        line-height: 2;
+        border-radius: 60px;
+        font-size: 40px;
     }
 
     .beneficios {
@@ -56,10 +60,7 @@
         vertical-align: top;
         width: 20%;
         margin-right: 15%;
-        border: 8px solid black;
-        line-height: 2;
-        border-radius: 60px;
-        font-size: 40px;
+
     }
 
     .menu{
