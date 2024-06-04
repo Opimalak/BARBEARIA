@@ -54,3 +54,6 @@ footer {
 .logo-preto{
     width: 250px;
 }
+ul{
+    display: flex;
+}
