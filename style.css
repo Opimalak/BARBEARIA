@@ -6,10 +6,7 @@
     }
     .titulo-principal {
         text-align: center;
-        background-color: rgb(88, 88, 88);
         font-size: 100px;
-        border: 10px solid;
-        border-color: black;
     }
 
     h2 {
