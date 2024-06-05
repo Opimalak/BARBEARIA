@@ -1,4 +1,4 @@
-/*MENUS & COPYRIGHT*/
+/*MENUS & COPYRIGHT GERAL*/
 header {
     background-color: #BBBBBB;
     padding: 20px 0;
@@ -57,4 +57,10 @@ footer {
 }
 .ul1{
     display: flex;
+}
+
+/*HOME*/
+
+.head-home{
+background-image: url(img2/bannerblur.jpg);
 }
