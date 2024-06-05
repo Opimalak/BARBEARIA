@@ -65,3 +65,7 @@ footer {
 background-image: url(img2/bannerblur.jpg);
 background-size: cover;
 }
+.insta-home{
+    height:auto ;
+    width:40px ;
+}
