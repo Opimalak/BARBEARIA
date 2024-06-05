@@ -63,4 +63,5 @@ footer {
 
 .head-home{
 background-image: url(img2/bannerblur.jpg);
+background-size: cover;
 }
