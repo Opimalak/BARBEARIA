@@ -61,7 +61,7 @@ footer {
     display: flex;
 }
 
-/*HOME*/
+/*---------------HOME---------------*/
 
 .head-home{
 background-image: url(img2/bannerblur.jpg);
@@ -73,5 +73,5 @@ background-size: cover;
 }
 .face-home{
     height:auto ;
-    width:40px ;
+    width:35px ;
 }
